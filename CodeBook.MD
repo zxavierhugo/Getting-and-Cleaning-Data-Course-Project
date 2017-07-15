@@ -1,6 +1,6 @@
-Code Book
+Code Book obtained from the experiment carried out by Adrian
 
-This code book summarizes the resulting data fields in tidy.txt.
+This code book summarizes the resulting data fields in cleaned_up.txt.
 
 Identifiers
 
